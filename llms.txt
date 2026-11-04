@@ -1,0 +1,119 @@
+# Maison Lafaye (Ets Lafaye Père et Fils)
+
+> Grossiste-distributeur de fournitures pour les métiers de bouche à Roanne (Loire, France) depuis 1918. Matières premières, produits frais et surgelés, emballages, hygiène et petit matériel pour boulangers, pâtissiers, chocolatiers, bouchers, charcutiers-traiteurs, restaurateurs, snacks et pizzerias. Livraison des professionnels sous 24 à 48 h dans un rayon de 50 à 60 km autour de Roanne (Loire 42, Allier 03, Puy-de-Dôme 63, Rhône 69, Saône-et-Loire 71). Ouvert aux particuliers en Click & Collect.
+
+## Faits clés
+
+- Adresse : 213 bis route de Charlieu, 42300 Roanne
+- Téléphone : 04 77 68 39 79 ; e-mail : contact@lafaye-roanne.fr
+- Horaires du dépôt : lundi-vendredi 8h-12h et 14h-18h, samedi 8h-12h
+- Click & Collect particuliers : compte gratuit sur https://lafaye.pro/, retrait et paiement au dépôt lundi-vendredi 14h-18h et samedi 8h-12h ; commande avant 16h = retrait le jour même
+- Entrepôt : 1 800 m², 2 chambres en froid positif, 3 chambres climatisées et 4 chambres en froid négatif
+- Fondée en 1918 par Claudius Lafaye ; reprise en février 2025 par Albéric de Calonne
+- Membre des groupements GRAL et EUDIPAT
+- Communes livrées (exemples) : Roanne, Riorges, Mably, Le Coteau, Villerest, Charlieu, Renaison, Saint-Germain-Laval, Feurs, Balbigny, Saint-Just-en-Chevalet, Tarare, Amplepuis, Thizy-les-Bourgs, Cours, Chauffailles, La Clayette, Marcigny, Paray-le-Monial, Digoin, Lapalisse, Le Donjon, Chabreloche
+
+## Pages principales
+
+- [Professionnels : ouvrir un compte](https://mbnstudio.github.io/lafaye-maquette/professionnels/)
+- [Particuliers : Click & Collect](https://mbnstudio.github.io/lafaye-maquette/particuliers/)
+- [Zone de livraison](https://mbnstudio.github.io/lafaye-maquette/zone-de-livraison/)
+- [Contact et horaires](https://mbnstudio.github.io/lafaye-maquette/contact/)
+
+## Boulangerie
+
+[Fournitures et matières premières pour la boulangerie](https://mbnstudio.github.io/lafaye-maquette/produits/boulangerie/) : Farines, levure, chocolat boulanger, fruits secs, viennoiseries surgelées et emballages pour boulangers, livrés sous 24-48 h autour de Roanne par Maison Lafaye.
+
+- [Levure boulangère fraîche](https://mbnstudio.github.io/lafaye-maquette/produits/boulangerie/levure-boulangere-fraiche/) : Levure de boulangerie fraîche en pains, pour la fermentation des pains, brioches et viennoiseries, livrée en froid positif. Conservation : froid positif (0 à +4 °c). Pros (livraison) et particuliers (Click & Collect).
+- [Farines pour pains spéciaux](https://mbnstudio.github.io/lafaye-maquette/produits/boulangerie/farines-pains-speciaux/) : Farines et mélanges pour pains spéciaux (seigle, complet, campagne, multicéréales) en sacs professionnels. Conservation : au sec, à température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Bâtons de chocolat boulanger](https://mbnstudio.github.io/lafaye-maquette/produits/boulangerie/batons-chocolat-boulanger/) : Bâtons de chocolat noir calibrés, conçus pour tenir à la cuisson des pains au chocolat et viennoiseries. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Viennoiseries surgelées](https://mbnstudio.github.io/lafaye-maquette/produits/boulangerie/viennoiseries-surgelees/) : Croissants, pains au chocolat et viennoiseries surgelés, crus ou prêts à cuire, pour compléter la production du fournil. Conservation : froid négatif (−18 °c). Réservé aux professionnels.
+- [Fruits confits](https://mbnstudio.github.io/lafaye-maquette/produits/boulangerie/fruits-confits/) : Bigarreaux, écorces d'orange et cubes de fruits confits pour cakes, brioches, panettones et décors. Conservation : au sec, à température ambiante. Pros (livraison) et particuliers (Click & Collect).
+
+## Pâtisserie
+
+[Ingrédients professionnels pour la pâtisserie](https://mbnstudio.github.io/lafaye-maquette/produits/patisserie/) : Crème liquide, beurre, ovoproduits, nappages, fondant, pâte d'amande, purées de fruits surgelées : ingrédients pâtissiers professionnels à Roanne, livrés ou en Click & Collect.
+
+- [Crème liquide UHT 35 % MG](https://mbnstudio.github.io/lafaye-maquette/produits/patisserie/creme-liquide-35/) : Crème liquide entière UHT à 35 % de matière grasse, qui monte et tient en chantilly, en formats professionnels et en Click & Collect. Conservation : froid positif (0 à +4 °c). Pros (livraison) et particuliers (Click & Collect).
+- [Beurre pâtissier et beurre de tourage](https://mbnstudio.github.io/lafaye-maquette/produits/patisserie/beurre-patissier/) : Beurres professionnels pour la pâtisserie et la viennoiserie : beurre en plaques de tourage, beurre pâtissier en blocs. Conservation : froid positif (0 à +4 °c). Pros (livraison) et particuliers (Click & Collect).
+- [Œufs liquides pasteurisés (ovoproduits)](https://mbnstudio.github.io/lafaye-maquette/produits/patisserie/oeufs-liquides-ovoproduits/) : Œuf entier, jaune ou blanc liquides pasteurisés : la sécurité sanitaire et le gain de temps en laboratoire et en cuisine. Conservation : froid positif (0 à +4 °c). Réservé aux professionnels.
+- [Nappage neutre et nappage abricot](https://mbnstudio.github.io/lafaye-maquette/produits/patisserie/nappage-neutre/) : Nappages brillants à chaud ou à froid pour sublimer et protéger les tartes aux fruits et entremets. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Fondant pâtissier blanc](https://mbnstudio.github.io/lafaye-maquette/produits/patisserie/fondant-patissier/) : Fondant blanc à glacer pour éclairs, religieuses, mille-feuilles et petits fours. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Pâte d'amande](https://mbnstudio.github.io/lafaye-maquette/produits/patisserie/pate-amande/) : Pâte d'amande à différentes teneurs en amandes, pour le recouvrement des gâteaux, le modelage et la confiserie. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Purées de fruits surgelées](https://mbnstudio.github.io/lafaye-maquette/produits/patisserie/puree-fruits-surgelee/) : Purées de fruits surgelées (framboise, fruit de la passion, mangue…) pour mousses, inserts, sorbets et cocktails. Conservation : froid négatif (−18 °c). Réservé aux professionnels.
+- [Sirop de glucose](https://mbnstudio.github.io/lafaye-maquette/produits/patisserie/glucose/) : Sirop de glucose pour la confiserie, les glaçages, les ganaches et les sorbets : il limite la cristallisation et apporte du moelleux. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+
+## Chocolaterie
+
+[Chocolat de couverture, pralinés et décors](https://mbnstudio.github.io/lafaye-maquette/produits/chocolaterie/) : Chocolat de couverture noir, lait et blanc, pralinés, beurre de cacao, feuilletine et décors pour chocolatiers, pâtissiers et particuliers, à Roanne.
+
+- [Chocolat de couverture en pistoles (noir, lait, blanc)](https://mbnstudio.github.io/lafaye-maquette/produits/chocolaterie/chocolat-couverture-noir/) : Couverture de chocolat noir, lait et blanc en pistoles, riche en beurre de cacao, pour le tempérage, l'enrobage et le moulage. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Praliné noisette et praliné amande](https://mbnstudio.github.io/lafaye-maquette/produits/chocolaterie/praline-noisette/) : Pralinés noisette et amande pour intérieurs de bonbons, Paris-Brest, crèmes et viennoiseries. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Beurre de cacao](https://mbnstudio.github.io/lafaye-maquette/produits/chocolaterie/beurre-de-cacao/) : Beurre de cacao pur pour fluidifier une couverture, imperméabiliser les fonds de tarte et réaliser des décors au pistolet. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Feuilletine (crêpe dentelle brisée)](https://mbnstudio.github.io/lafaye-maquette/produits/chocolaterie/feuilletine/) : Éclats de crêpe dentelle pour les croustillants pralinés, les fonds d'entremets et les bonbons. Conservation : au sec, à température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Décors en chocolat](https://mbnstudio.github.io/lafaye-maquette/produits/chocolaterie/decors-chocolat/) : Copeaux, plaquettes, pailleté et décors en chocolat prêts à poser pour la finition des gâteaux et entremets. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+
+## Boucherie
+
+[Condiments, salaisons et consommables pour la boucherie](https://mbnstudio.github.io/lafaye-maquette/produits/boucherie/) : Sel nitrité, poivres et épices, condiments, sacs sous vide, films et surgelés pour artisans bouchers, livrés autour de Roanne sous 24-48 h.
+
+- [Sel nitrité pour salaisons](https://mbnstudio.github.io/lafaye-maquette/produits/boucherie/sel-nitrite/) : Sel nitrité destiné aux professionnels de la charcuterie et de la salaison : couleur, conservation et sécurité des produits. Conservation : au sec, à température ambiante. Réservé aux professionnels.
+- [Sacs sous vide](https://mbnstudio.github.io/lafaye-maquette/produits/boucherie/sacs-sous-vide/) : Sacs sous vide lisses (machines à cloche) et gaufrés (machines à aspiration externe), dont des sacs cuisson. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Poivres et épices pour boucherie](https://mbnstudio.github.io/lafaye-maquette/produits/boucherie/poivres-epices/) : Poivres en grains et moulus, épices et mélanges pour saucisses, farces, marinades et préparations bouchères. Conservation : au sec, à température ambiante. Pros (livraison) et particuliers (Click & Collect).
+
+## Charcuterie & traiteur
+
+[Produits pour la charcuterie et le traiteur](https://mbnstudio.github.io/lafaye-maquette/produits/charcuterie-traiteur/) : Foie gras surgelé, morilles et cèpes séchés, gélatine, escargots, fruits secs, produits laitiers et épicerie pour charcutiers-traiteurs autour de Roanne.
+
+- [Foie gras de canard cru surgelé](https://mbnstudio.github.io/lafaye-maquette/produits/charcuterie-traiteur/foie-gras-surgele/) : Foie gras de canard cru surgelé, en lobes ou en escalopes, pour terrines, mi-cuits et poêlés. Conservation : froid négatif (−18 °c). Réservé aux professionnels.
+- [Morilles et cèpes séchés](https://mbnstudio.github.io/lafaye-maquette/produits/charcuterie-traiteur/morilles-sechees/) : Morilles et cèpes séchés pour sauces, farces, volailles à la crème et plats de fêtes. Conservation : au sec, à température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Gélatine en feuilles et en poudre](https://mbnstudio.github.io/lafaye-maquette/produits/charcuterie-traiteur/gelatine/) : Gélatine alimentaire en feuilles ou en poudre pour aspics, terrines, mousses, bavarois et entremets. Conservation : au sec, à température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Escargots de Bourgogne](https://mbnstudio.github.io/lafaye-maquette/produits/charcuterie-traiteur/escargots-bourgogne/) : Escargots de Bourgogne pour la cuisine traiteur et la restauration, au naturel ou préparés au beurre persillé selon référence. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+
+## Restauration
+
+[Épicerie, frais et surgelés pour la restauration](https://mbnstudio.github.io/lafaye-maquette/produits/restauration/) : Produits laitiers, ovoproduits, épicerie, conserves, huiles, épices et surgelés pour restaurants, cantines et traiteurs, livrés autour de Roanne en 24-48 h.
+
+- [Cuisses de grenouille surgelées](https://mbnstudio.github.io/lafaye-maquette/produits/restauration/cuisses-grenouille-surgelees/) : Cuisses de grenouille surgelées, entières ou désossées, pour les cartes régionales et les menus de brasserie. Conservation : froid négatif (−18 °c). Réservé aux professionnels.
+- [Huile d'olive vierge extra](https://mbnstudio.github.io/lafaye-maquette/produits/restauration/huile-olive-vierge-extra/) : Huile d'olive vierge extra en bidons et bouteilles, pour l'assaisonnement, la cuisine et la pizza. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Légumes et aromates surgelés](https://mbnstudio.github.io/lafaye-maquette/produits/restauration/legumes-surgeles/) : Oignons émincés, ail, échalote, persil, épinards en branches : légumes et aromates surgelés prêts à l'emploi. Conservation : froid négatif (−18 °c). Réservé aux professionnels.
+
+## Snacking
+
+[Produits pour le snacking et la vente à emporter](https://mbnstudio.github.io/lafaye-maquette/produits/snacking/) : Poulet rôti tranché, jambon, fromages, sauces, boissons et emballages pour snacks, sandwicheries et boulangeries, livrés autour de Roanne.
+
+- [Filet de poulet rôti tranché](https://mbnstudio.github.io/lafaye-maquette/produits/snacking/filet-poulet-roti-tranche/) : Filet de poulet rôti et tranché, prêt à garnir sandwichs, wraps, salades et paninis. Conservation : froid positif (0 à +4 °c). Réservé aux professionnels.
+- [Lamelles de poulet tex-mex surgelées](https://mbnstudio.github.io/lafaye-maquette/produits/snacking/lamelles-poulet-tex-mex/) : Lamelles de poulet cuites et assaisonnées tex-mex, surgelées, pour wraps, tacos, salades et pizzas. Conservation : froid négatif (−18 °c). Réservé aux professionnels.
+- [Jambon blanc et jambon sec tranchés](https://mbnstudio.github.io/lafaye-maquette/produits/snacking/jambon-tranche/) : Jambon blanc et jambon sec tranchés pour sandwichs, croque-monsieur, salades et planches. Conservation : froid positif (0 à +4 °c). Réservé aux professionnels.
+
+## Pizzeria
+
+[Farines, tomates, fromages et garnitures pour la pizza](https://mbnstudio.github.io/lafaye-maquette/produits/pizzeria/) : Farine à pizza, Polpa Mutti, mozzarella, garnitures surgelées et boîtes à pizza 33 × 33 pour pizzerias et camions pizza, livrés autour de Roanne.
+
+- [Polpa de tomate Mutti](https://mbnstudio.github.io/lafaye-maquette/produits/pizzeria/polpa-tomate-mutti/) : Pulpe de tomate finement concassée Mutti, la base de sauce préférée des pizzaïolos, en format restauration. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Mozzarella en cossettes](https://mbnstudio.github.io/lafaye-maquette/produits/pizzeria/mozzarella-cossette/) : Mozzarella râpée en cossettes, qui fond et file régulièrement à la cuisson, pour pizzerias et snacks. Conservation : froid positif (0 à +4 °c). Pros (livraison) et particuliers (Click & Collect).
+- [Farine pour pizza](https://mbnstudio.github.io/lafaye-maquette/produits/pizzeria/farine-pizza/) : Farine de blé tendre spéciale pizza, riche en protéines, pour des pâtes élastiques à longue fermentation. Conservation : au sec, à température ambiante. Pros (livraison) et particuliers (Click & Collect).
+
+## Petit matériel
+
+[Petit matériel pour les métiers de bouche](https://mbnstudio.github.io/lafaye-maquette/produits/petit-materiel/) : Poches pâtissières, moules, ustensiles et étiquettes pour boulangers, pâtissiers et traiteurs : petit matériel professionnel disponible à Roanne.
+
+- [Poches pâtissières jetables](https://mbnstudio.github.io/lafaye-maquette/produits/petit-materiel/poches-patissieres-jetables/) : Poches à douille jetables en rouleau, hygiéniques et résistantes, pour crèmes, pâtes à choux et garnitures. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Étiquettes de conditionnement et de traçabilité](https://mbnstudio.github.io/lafaye-maquette/produits/petit-materiel/etiquettes-tracabilite/) : Étiquettes de prix, de composition, de traçabilité et de décongélation, sur catalogue NS Étiquettes. Conservation : température ambiante. Réservé aux professionnels.
+
+## Emballage
+
+[Emballages pour la boulangerie, la pâtisserie et le traiteur](https://mbnstudio.github.io/lafaye-maquette/produits/emballage/) : Boîtes pâtissières, sacs à pain et à croissants, barquettes aluminium, boîtes pizza, caissettes et films pour professionnels des métiers de bouche, à Roanne.
+
+- [Boîtes pâtissières](https://mbnstudio.github.io/lafaye-maquette/produits/emballage/boites-patissieres/) : Boîtes pâtissières en carton, de la boîte individuelle au grand entremets, pour présenter et transporter les gâteaux. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Sacs croissant et sachets viennoiserie](https://mbnstudio.github.io/lafaye-maquette/produits/emballage/sacs-croissant/) : Sachets papier pour viennoiseries, sandwichs et petits pains, en plusieurs tailles. Conservation : température ambiante. Réservé aux professionnels.
+- [Boîtes à pizza 33 × 33 cm](https://mbnstudio.github.io/lafaye-maquette/produits/emballage/boites-pizza-33/) : Boîtes à pizza en carton 33 × 33 cm pour la vente à emporter et la livraison. Conservation : température ambiante. Réservé aux professionnels.
+- [Barquettes aluminium](https://mbnstudio.github.io/lafaye-maquette/produits/emballage/barquettes-aluminium/) : Barquettes aluminium avec couvercles, pour la cuisson, le stockage et la vente à emporter des plats traiteur. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+
+## Hygiène
+
+[Produits d'hygiène et d'entretien pour les métiers de bouche](https://mbnstudio.github.io/lafaye-maquette/produits/hygiene/) : Produits plonge, lessives, nettoyants sols, four et vitres, savons, bobines d'essuyage et sacs poubelle pour laboratoires et cuisines professionnelles, à Roanne.
+
+- [Liquide plonge manuelle](https://mbnstudio.github.io/lafaye-maquette/produits/hygiene/produit-plonge-manuelle/) : Détergent concentré pour la plonge manuelle de la vaisselle et des ustensiles en cuisine professionnelle. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Bobines d'essuyage (lot de 6)](https://mbnstudio.github.io/lafaye-maquette/produits/hygiene/bobines-essuyage/) : Bobines de papier d'essuyage ouate, par lot de 6, pour le laboratoire, la cuisine et le comptoir. Conservation : au sec, à température ambiante. Pros (livraison) et particuliers (Click & Collect).
+- [Nettoyant four et grill](https://mbnstudio.github.io/lafaye-maquette/produits/hygiene/nettoyant-four/) : Décapant puissant pour fours, grills, plaques et friteuses : élimine les graisses carbonisées. Conservation : température ambiante. Pros (livraison) et particuliers (Click & Collect).
